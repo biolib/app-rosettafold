@@ -1,0 +1,36 @@
+name: CI
+
+on: push
+
+env:
+    BIOLIB_LOG: debug
+    BIOLIB_PROJECT_URI: biolib-debugging/rf-ci-test
+    LOCAL_DOCKER_TAG: app-rosettafold:latest
+
+jobs:
+    build-and-publish:
+        name: Build Docker image and publish if on main
+        runs-on: ubuntu-latest
+        steps:
+            -   name: Checkout
+                uses: actions/checkout@v2
+                with:
+                    fetch-depth: 2
+
+            -   name: Build docker image
+                run: docker build -f rosettafold/Dockerfile -t $LOCAL_DOCKER_TAG rosettafold/
+
+            -   name: Setup Python
+                uses: actions/setup-python@v2
+                with:
+                    python-version: 3.8.6
+
+            -   name: Install BioLib CLI
+                run: pip3 install pybiolib
+
+            -   name: Publish new version to BioLib if on main branch
+                if: ${{ github.ref == 'refs/heads/main' }}
+                run: biolib push $BIOLIB_PROJECT_URI --path biolib_app
+                env:
+                    BIOLIB_TOKEN: ${{ secrets.BIOLIB_TOKEN }}
+

@@ -2,7 +2,7 @@ biolib_version: 2
 
 modules:
     main:
-        image: 'local-docker://app-alphafold:latest'
+        image: 'local-docker://app-rosettafold:latest'
         command: "--model=e2e"
         input_files:
             - COPY / /
