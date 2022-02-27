@@ -1,0 +1,25 @@
+biolib_version: 2
+
+modules:
+    main:
+        image: 'local-docker://app-alphafold:latest'
+        command: "--model=e2e"
+        input_files:
+            - COPY / /
+        output_files:
+            - COPY /t000_.e2e.pdb/ /
+            - COPY /output.md /
+        source_files: []
+        gpu: required
+
+arguments:
+    -
+        default_value: /input.fa
+        description: 'Enter sequence(s) in FASTA format: '
+        key: '--fasta'
+        key_value_separator: '='
+        required: true
+        type: text-file
+        
+main_output_file: /output.md
+
