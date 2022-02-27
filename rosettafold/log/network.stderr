@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/biolib_admin/test/network/predict_e2e.py", line 4, in <module>
+    import torch
+  File "/anaconda/envs/RoseTTAFold/lib/python3.8/site-packages/torch/__init__.py", line 196, in <module>
+    _load_global_deps()
+  File "/anaconda/envs/RoseTTAFold/lib/python3.8/site-packages/torch/__init__.py", line 149, in _load_global_deps
+    ctypes.CDLL(lib_path, mode=ctypes.RTLD_GLOBAL)
+  File "/anaconda/envs/RoseTTAFold/lib/python3.8/ctypes/__init__.py", line 381, in __init__
+    self._handle = _dlopen(self._name, mode)
+OSError: /anaconda/envs/RoseTTAFold/lib/python3.8/site-packages/torch/lib/../../../../libcurand.so.10: invalid ELF header

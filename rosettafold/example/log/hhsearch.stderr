@@ -1,0 +1,4 @@
+- 14:35:52.323 ERROR: In /opt/conda/conda-bld/hhsuite_1616660820288/work/src/hhalignment.cpp:223: Read:
+
+- 14:35:52.323 ERROR: 	sequence ss_pred contains no residues.
+

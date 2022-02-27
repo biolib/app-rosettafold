@@ -1,0 +1,5 @@
+/home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/input_prep/make_ss.sh: line 11: /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/csblast-2.2.3/bin/csbuild: No such file or directory
+[makemat] FATAL ERROR: Unable to open file t000_.msa0.tmp.chk
+
+Bad psipred pass1 file format!
+rm: cannot remove '/home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/t000_.msa0.a3m.csb.hhblits.ss2': No such file or directory

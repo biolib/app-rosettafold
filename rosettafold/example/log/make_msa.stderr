@@ -1,0 +1,64 @@
+- 14:22:17.186 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-30.a3m
+
+- 14:22:17.186 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-30.id90cov75.a3m
+
+- 14:22:17.192 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-30.a3m
+
+- 14:22:17.192 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-30.id90cov50.a3m
+
+- 14:23:25.393 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-10.a3m
+
+- 14:23:25.393 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-10.id90cov75.a3m
+
+- 14:23:25.402 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-10.a3m
+
+- 14:23:25.402 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-10.id90cov50.a3m
+
+- 14:24:32.202 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-6.a3m
+
+- 14:24:32.202 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-6.id90cov75.a3m
+
+- 14:24:32.212 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-6.a3m
+
+- 14:24:32.212 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-6.id90cov50.a3m
+
+- 14:25:38.354 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-3.a3m
+
+- 14:25:38.354 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-3.id90cov75.a3m
+
+- 14:25:38.366 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-3.a3m
+
+- 14:25:38.366 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db0.1e-3.id90cov50.a3m
+
+- 14:31:35.240 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-30.a3m
+
+- 14:31:35.240 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-30.id90cov75.a3m
+
+- 14:31:35.249 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-30.a3m
+
+- 14:31:35.249 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-30.id90cov50.a3m
+
+- 14:33:01.173 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-10.a3m
+
+- 14:33:01.173 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-10.id90cov75.a3m
+
+- 14:33:01.184 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-10.a3m
+
+- 14:33:01.184 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-10.id90cov50.a3m
+
+- 14:34:26.288 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-6.a3m
+
+- 14:34:26.288 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-6.id90cov75.a3m
+
+- 14:34:26.300 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-6.a3m
+
+- 14:34:26.300 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-6.id90cov50.a3m
+
+- 14:35:52.152 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-3.a3m
+
+- 14:35:52.152 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-3.id90cov75.a3m
+
+- 14:35:52.164 INFO: Input file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-3.a3m
+
+- 14:35:52.164 INFO: Output file = /home/biolib_admin/notebooks/RoseTTAFoldReal/RoseTTAFold/example/hhblits/t000_.db1.1e-3.id90cov50.a3m
+
